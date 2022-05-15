@@ -1,9 +1,11 @@
 ### Pour me contacter
 
 ===
-
+<div>
+	<div>
 ![Alt Text](https://github.com/GaetanLgt/CV/blob/main/photo.png)
-<div align="center">
+	</div>
+	<div>
 ## Gaëtan LANGLET		
 # 06-89-60-21-82		
 # gtn.langlet@gmail.com	
