@@ -1,9 +1,6 @@
-### Pour me contacter===>
+### Pour me contacter==
 
-<div>
-	
-		
-<div>
+<div align="center">
 		![Alt Text](https://github.com/GaetanLgt/CV/blob/main/photo.png)
 </div>
 <div>
