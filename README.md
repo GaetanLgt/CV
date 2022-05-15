@@ -37,3 +37,7 @@ https://github.com/GaetanLgt/CV/blob/main/cv_Gaetan_LANGLET_Developpeur-full-sta
 </div>
 
 ###
+
+Bienvenu sur mon Github 
+--
+Pour voir certain code de mes projets https://github.com/GaetanLgt 
