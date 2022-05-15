@@ -1,4 +1,5 @@
 <?php
+![Alt Text](https://github.com/GaetanLgt/CV/blob/main/cv_Gaetan_LANGLET_Developpeur-full-stack.pdf)
 
 /* A Personne has a name, a prenom, a date_naissance, an email, a tel, a github, a linkedin, a front, a
 back, a full, and a library. */
@@ -44,3 +45,5 @@ echo Developpeur-Web_Full-Stack::GaëtanLANGLET;			?>
 	Développeur web
    	Saint-Junien,
 	Nouvelle-Aquitaine, 	France 
+	
+
