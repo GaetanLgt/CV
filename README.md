@@ -1,6 +1,4 @@
-##<?php
-
-![Alt Text](https://github.com/GaetanLgt/CV/blob/main/cv_Gaetan_LANGLET_Developpeur-full-stack.pdf)
+<?php
 
 /* A Personne has a name, a prenom, a date_naissance, an email, a tel, a github, a linkedin, a front, a
 back, a full, and a library. */
@@ -22,6 +20,7 @@ class Developpeur-Web_Full-Stack
 	protected $github = 'https: //github.com/GaetanLgt';
 	protected $linkedin = 'https://www.linkedin.com/in/ga%C3%ABtan-langlet-web-developpeur/';
 }
+
 class Compences extends Personne
 {
 	// déclaration des compentences
@@ -38,13 +37,14 @@ class Compences extends Personne
 }
 
 echo Developpeur-Web_Full-Stack::GaëtanLANGLET;			?>
-
+	![Alt Text](https://github.com/GaetanLgt/CV/blob/main/photo.png)
+	
       	Gaëtan LANGLET
 	06-89-60-21-82
 	gtn.langlet@gmail.com
     
 	Développeur web
    	Saint-Junien,
-	Nouvelle-Aquitaine, 	France 
+	Nouvelle-Aquitaine, 	France
 	
-
+![Alt Text](https://github.com/GaetanLgt/CV/blob/main/cv_Gaetan_LANGLET_Developpeur-full-stack.pdf)
