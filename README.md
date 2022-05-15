@@ -16,11 +16,11 @@ Gaëtan LANGLET
 ## Pour me contacter
 
 06-89-60-21-82
--
+
 gtn.langlet@gmail.com
--
+
 ![linkedin.com]('https://www.linkedin.com/in/ga%C3%ABtan-langlet-web-developpeur/')
--
+
 
 	Développeur web
 	Saint-Junien / Limoges / Remote
