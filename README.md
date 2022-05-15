@@ -40,4 +40,4 @@ https://github.com/GaetanLgt/CV/blob/main/cv_Gaetan_LANGLET_Developpeur-full-sta
 
 Bienvenue sur mon Github 
 --
-Pour voir certain code de mes projets https://github.com/GaetanLgt 
+Pour voir certains codes de mes projets https://github.com/GaetanLgt 
