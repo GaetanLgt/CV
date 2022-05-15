@@ -1,23 +1,29 @@
 ### Pour me contacter
 
 ===
+
 <div>
+	
+		
 	<div>
-![Alt Text](https://github.com/GaetanLgt/CV/blob/main/photo.png)
+			![Alt Text](https://github.com/GaetanLgt/CV/blob/main/photo.png)
 	</div>
 	<div>
-## Gaëtan LANGLET		
-# 06-89-60-21-82		
-# gtn.langlet@gmail.com	
+
+## Gaëtan LANGLET
+# 06-89-60-21-82
+# gtn.langlet@gmail.com
 </div>
-===		
+	
+===
+	
 		Développeur web
 		Saint-Junien
 		Nouvelle-Aquitaine
 		
 
 <div align="center">
-
-![Alt Text](https://github.com/GaetanLgt/CV/blob/main/cv_Gaetan_LANGLET_Developpeur-full-stack.pdf)
+	
+	![Alt Text](https://github.com/GaetanLgt/CV/blob/main/cv_Gaetan_LANGLET_Developpeur-full-stack.pdf)
 	
 </div>
