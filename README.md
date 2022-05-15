@@ -13,4 +13,4 @@
 		Saint-Junien
 		Nouvelle-Aquitaine
 		
-	![(https://github.com/GaetanLgt/CV/blob/main/cv_Gaetan_LANGLET_Developpeur-full-stack.pdf)]
+![Alt Text](https://github.com/GaetanLgt/CV/blob/main/cv_Gaetan_LANGLET_Developpeur-full-stack.pdf)
