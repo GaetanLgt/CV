@@ -1,6 +1,8 @@
-### Pour me contacter
-
+### Recherche d'alternance : Formation Symfony / php => OpenClassroom
 ##
+
+
+## Pour me contacter
 
 <div align="center">
 
@@ -18,17 +20,20 @@ Gaëtan LANGLET
 --
 gtn.langlet@gmail.com
 --
+
 </div>
 
 </div>
 
 
 	Développeur web
-	Saint-Junien
+	Saint-Junien / Limoges / Remote
 	Nouvelle-Aquitaine
 
+###
+Mon curriculum vitae
+---
 
-##
 <div align="center">
 
 ![https://github.com/GaetanLgt/CV/blob/main/cv_Gaetan_LANGLET_Developpeur-full-stack.pdf]('https://github.com/GaetanLgt/CV/blob/main/cv_Gaetan_LANGLET_Developpeur-full-stack.pdf')
