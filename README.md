@@ -17,7 +17,7 @@ Gaëtan LANGLET
 
 
 
-[Mobile](callto:+33689602182) : 
+<a href="tel:0689602182" style="color:red">Mobile</a> : 
 	
 	0689602182
 
