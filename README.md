@@ -22,7 +22,9 @@ Mobile :
 ou sur [linkedin](https://www.linkedin.com/in/ga%C3%ABtan-langlet-web-developpeur/)
 
 ou par e-meil :	gtn.langlet@gmail.com
+
 #
+
 
 	Gaëtan LANGLET
 	tel : 06-89-60-21-82
