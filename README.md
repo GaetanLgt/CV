@@ -19,7 +19,7 @@ Gaëtan LANGLET
 
 gtn.langlet@gmail.com
 
-![linkedin](https://www.linkedin.com/in/ga%C3%ABtan-langlet-web-developpeur/)
+[linkedin](https://www.linkedin.com/in/ga%C3%ABtan-langlet-web-developpeur/)
 
 
 	Développeur web
