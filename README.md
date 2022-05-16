@@ -15,18 +15,21 @@ Gaëtan LANGLET
 
 ## Pour me contacter
 
-06-89-60-21-82
 
-gtn.langlet@gmail.com
+tel :	0689602182
+	
+ou sur [linkedin](https://www.linkedin.com/in/ga%C3%ABtan-langlet-web-developpeur/)
 
-[linkedin](https://www.linkedin.com/in/ga%C3%ABtan-langlet-web-developpeur/)
+ou par e-meil :	gtn.langlet@gmail.com
+#
 
 	Gaëtan LANGLET
 	tel : 06-82-60-21-82
 	email : gtn.langlet@gmail.com
-	=> Développeur web / web mobile
-	   	-> Saint-Junien / Limoges / Remote
-		 Nouvelle-Aquitaine
+	linkedin : https://www.linkedin.com/in/ga%C3%ABtan-langlet-web-developpeur
+	Github : https://github.com/GaetanLgt
+	CV : https://github.com/GaetanLgt/CV/blob/main/cv_Gaetan_LANGLET_Developpeur-full-stack.pdf
+
 
 ###
 Mon curriculum vitae
