@@ -23,8 +23,8 @@ ou sur [linkedin](https://www.linkedin.com/in/ga%C3%ABtan-langlet-web-developpeu
 
 ou par e-meil :	gtn.langlet@gmail.com
 
-#
-Carte de vistite :
+
+# Carte de visite :
 
 
 	Gaëtan LANGLET
@@ -33,7 +33,8 @@ Carte de vistite :
 	linkedin : https://www.linkedin.com/in/ga%C3%ABtan-langlet-web-developpeur
 	Github : https://github.com/GaetanLgt
 	CV : https://github.com/GaetanLgt/CV/blob/main/cv_Gaetan_LANGLET_Developpeur-full-stack.pdf
-#
+##
+
 ###
 Mon curriculum vitae
 ---
