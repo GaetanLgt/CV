@@ -15,8 +15,9 @@ Gaëtan LANGLET
 
 ## Pour me contacter
 
+Mobile :
 
-tel :	0689602182
+	0689602182
 	
 ou sur [linkedin](https://www.linkedin.com/in/ga%C3%ABtan-langlet-web-developpeur/)
 
@@ -24,7 +25,7 @@ ou par e-meil :	gtn.langlet@gmail.com
 #
 
 	Gaëtan LANGLET
-	tel : 06-82-60-21-82
+	tel : 06-89-60-21-82
 	email : gtn.langlet@gmail.com
 	linkedin : https://www.linkedin.com/in/ga%C3%ABtan-langlet-web-developpeur
 	Github : https://github.com/GaetanLgt
