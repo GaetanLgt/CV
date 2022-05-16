@@ -16,7 +16,7 @@ Gaëtan LANGLET
 ## Pour me contacter :
 
 #
-![Mobile](call:0689602182) :
+[Mobile](callto:0689602182) :
 
 	0689602182
 
