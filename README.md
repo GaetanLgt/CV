@@ -15,8 +15,9 @@ Gaëtan LANGLET
 
 ## Pour me contacter :
 
+
 #
-[Mobile](https://link-to-tel.herokuapp.com/tel/%2B33689602182) :
+[Mobile](callto:0689602182) :
 
 	0689602182
 
