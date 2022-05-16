@@ -13,7 +13,7 @@ Gaëtan LANGLET
 
 
 
-## Pour me contacter
+## Pour me contacter :
 
 Mobile :
 
@@ -36,7 +36,7 @@ ou par e-meil :	gtn.langlet@gmail.com
 ##
 
 ###
-Mon curriculum vitae
+Mon curriculum vitae :
 ---
 
 <div>
@@ -48,6 +48,6 @@ https://github.com/GaetanLgt/CV/blob/main/cv_Gaetan_LANGLET_Developpeur-full-sta
 
 ###
 
-Bienvenue sur mon Github 
+Bienvenue sur mon Github !
 --
 Pour voir certains codes de mes projets https://github.com/GaetanLgt 
