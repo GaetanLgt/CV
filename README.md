@@ -21,10 +21,12 @@ gtn.langlet@gmail.com
 
 [linkedin](https://www.linkedin.com/in/ga%C3%ABtan-langlet-web-developpeur/)
 
-
-	Développeur web
-	Saint-Junien / Limoges / Remote
-	Nouvelle-Aquitaine
+	Gaëtan LANGLET
+	tel : 06-82-60-21-82
+	email : gtn.langlet@gmail.com
+	=> Développeur web / web mobile
+	   	-> Saint-Junien / Limoges / Remote
+		 Nouvelle-Aquitaine
 
 ###
 Mon curriculum vitae
