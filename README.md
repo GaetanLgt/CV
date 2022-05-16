@@ -31,6 +31,7 @@ ou par e-meil :	gtn.langlet@gmail.com
 	Github : https://github.com/GaetanLgt
 	CV : https://github.com/GaetanLgt/CV/blob/main/cv_Gaetan_LANGLET_Developpeur-full-stack.pdf
 
+#
 
 ###
 Mon curriculum vitae
