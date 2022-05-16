@@ -23,7 +23,7 @@ Mobile :
  	
 	https://www.linkedin.com/in/ga%C3%ABtan-langlet-web-developpeur
 
- [E-mail](gtn.langlet@gmain.com) :
+ [E-mail](gtn.langlet@gmail.com) :
  	
 	gtn.langlet@gmail.com
 
