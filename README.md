@@ -17,7 +17,7 @@ Gaëtan LANGLET
 
 
 #
-[Mobile](callto:0689602182) :
+[Mobile](tel:+33500000000?appeler ) :
 
 	0689602182
 
