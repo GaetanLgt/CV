@@ -18,12 +18,14 @@ Gaëtan LANGLET
 Mobile : 
 	
 	0689602182
-	
- [linkedin](https://www.linkedin.com/in/ga%C3%ABtan-langlet-web-developpeur/) :
+
+#
+[linkedin](https://www.linkedin.com/in/ga%C3%ABtan-langlet-web-developpeur) :
  	
 	https://www.linkedin.com/in/ga%C3%ABtan-langlet-web-developpeur
 
- [E-mail](gtn.langlet@gmail.com) :
+#
+[E-mail](mailto:gtn.langlet@gmail.com?subject=[github]%20Source%20CV) :
  	
 	gtn.langlet@gmail.com
 
