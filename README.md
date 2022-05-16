@@ -14,11 +14,10 @@ Gaëtan LANGLET
 
 
 ## Pour me contacter :
+<div>
+ <a href="tel:+33689602182">Mobile :</a> 
+</div>
 
-
-
-<a href="tel:0689602182" style="color:red">Mobile</a> : 
-	
 	0689602182
 
 #
