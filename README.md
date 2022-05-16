@@ -24,6 +24,7 @@ ou sur [linkedin](https://www.linkedin.com/in/ga%C3%ABtan-langlet-web-developpeu
 ou par e-meil :	gtn.langlet@gmail.com
 
 #
+Carte de vistite :
 
 
 	Gaëtan LANGLET
