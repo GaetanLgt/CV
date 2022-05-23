@@ -40,7 +40,7 @@ Gaëtan LANGLET
 	email : gtn.langlet@gmail.com
 	linkedin : https://www.linkedin.com/in/ga%C3%ABtan-langlet-web-developpeur
 	Github : https://github.com/GaetanLgt
-	CV : https://github.com/GaetanLgt/CV/blob/main/cv_Gaetan_LANGLET_Developpeur-full-stack.pdf
+	CV : https://github.com/GaetanLgt/CV/blob/main/cv_Gaetan_LANGLET_Developpeur.pdf
 ##
 
 ###
@@ -49,7 +49,7 @@ Mon curriculum-vitae :
 
 <div>
 	
-https://github.com/GaetanLgt/CV/blob/main/cv_Gaetan_LANGLET_Developpeur-full-stack.pdf
+https://github.com/GaetanLgt/CV/blob/main/cv_Gaetan_LANGLET_Developpeur-web.pdf
 	
 </div>
 
