@@ -49,7 +49,7 @@ Mon curriculum-vitae :
 
 <div>
 	
-[https://github.com/GaetanLgt/CV/blob/main/cv_Gaetan_LANGLET_Developpeur-web.pdf](https://github.com/GaetanLgt/CV/blob/main/cv_Gaetan_LANGLET_Developpeur.pdf)
+[https://github.com/GaetanLgt/CV/blob/main/CV-Gaëtan-LANGLET.pdf](https://github.com/GaetanLgt/CV/blob/main/CV-Gaëtan-LANGLET.pdf)
 	
 </div>
 
