@@ -1,0 +1,31 @@
+api_platform:
+    title: 'Portfolio 3D API'
+    version: '1.0.0'
+    description: 'API for Portfolio 3D application'
+
+    formats:
+        jsonld: ['application/ld+json']
+        json: ['application/json']
+        html: ['text/html']
+
+    docs_formats:
+        jsonld: ['application/ld+json']
+        jsonopenapi: ['application/vnd.openapi+json']
+        html: ['text/html']
+
+    defaults:
+        stateless: true
+        cache_headers:
+            vary: ['Content-Type', 'Authorization', 'Origin']
+        extra_properties:
+            standard_put: true
+            rfc_7807_compliant_errors: true
+
+    show_webby: false
+
+    collection:
+        pagination:
+            enabled: true
+            page_parameter_name: page
+            items_per_page: 30
+            maximum_items_per_page: 100
