@@ -5,9 +5,34 @@
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Portfolio 3D - Gaëtan LANGLET</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+    <!-- FONTS MND Premium : self-hosted (perf, RGPD, zéro CDN).
+         Pas de <link rel="preload"> : SPA -> HTML vide au premier rendu,
+         les fonts ne sont sollicitées qu'au montage Vue (Firefox signalerait
+         « preload not used »). Le @font-face inline ci-dessous suffit. -->
+    <style>
+      @font-face {
+        font-family: 'Fraunces';
+        font-style: normal;
+        font-weight: 300 700;
+        font-display: swap;
+        src: url('/fonts/Fraunces-Regular.woff2') format('woff2');
+      }
+      @font-face {
+        font-family: 'Fraunces';
+        font-style: italic;
+        font-weight: 400;
+        font-display: swap;
+        src: url('/fonts/Fraunces-Italic.woff2') format('woff2');
+      }
+      @font-face {
+        font-family: 'Space Grotesk';
+        font-style: normal;
+        font-weight: 400 700;
+        font-display: swap;
+        src: url('/fonts/SpaceGrotesk-Regular.woff2') format('woff2');
+      }
+    </style>
   </head>
   <body>
     <div id="app"></div>

@@ -30,7 +30,7 @@
             <div class="h-2 bg-secondary rounded-full overflow-hidden">
               <div
                 :ref="el => skill.barRef = el"
-                class="h-full bg-gradient-to-r from-accent to-purple-600 rounded-full transition-all duration-1000"
+                class="h-full bg-gradient-to-r from-accent to-mnd-light rounded-full transition-all duration-1000"
                 :style="{ width: '0%' }"
                 :data-level="skill.level"
               ></div>

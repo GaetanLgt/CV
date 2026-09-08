@@ -42,7 +42,7 @@
           <!-- Author -->
           <div class="flex items-center gap-3 pt-4 border-t border-gray-700">
             <div
-              class="w-12 h-12 rounded-full overflow-hidden bg-gradient-to-br from-accent to-purple-600 flex items-center justify-center"
+              class="w-12 h-12 rounded-full overflow-hidden bg-gradient-to-br from-accent to-mnd-light flex items-center justify-center"
             >
               <img
                 v-if="testimonial.avatar"
