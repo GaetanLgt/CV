@@ -6,6 +6,8 @@
       <TresAmbientLight :intensity="0.6" />
       <TresDirectionalLight :intensity="1.2" :position="[5, 5, 5]" />
       <TresPointLight :intensity="0.8" :position="[-3, 2, -3]" color="#3B82F6" />
+      <!-- MND — lueur signature GL émeraude (complément, ne casse pas le bleu) -->
+      <TresPointLight :intensity="0.5" :position="[3, -2, 2]" color="#00ff41" />
 
       <!-- 3D Icosahedron -->
       <Sphere
@@ -32,11 +34,14 @@
     <!-- Hero Content -->
     <div class="absolute inset-0 flex items-center justify-center pointer-events-none z-10">
       <div class="text-center px-4 max-w-4xl">
+        <p class="text-xs md:text-sm tracking-[0.3em] uppercase mb-4 text-mnd opacity-80 font-mono">
+          GL Digital Lab · Manga No Densetsu
+        </p>
         <h1 ref="titleRef" class="text-5xl md:text-7xl lg:text-8xl font-bold mb-6 opacity-0">
           <span class="text-gradient">Portfolio 3D</span>
         </h1>
         <p ref="subtitleRef" class="text-xl md:text-2xl text-gray-300 mb-8 opacity-0">
-          Développeur Full Stack & Créatif
+          Développeur Full Stack & Créatif — l'humain reste au centre
         </p>
         <div ref="ctaRef" class="flex gap-4 justify-center opacity-0 pointer-events-auto">
           <a href="#projects" class="btn-primary">
